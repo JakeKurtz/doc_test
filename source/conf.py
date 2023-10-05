@@ -6,11 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Stratus 1.53'
+project = 'Stratus'
 copyright = '2023, Jake Kurtz'
 author = 'Jake Kurtz'
-release = '1.53'
-current_version = '1.53'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -28,8 +26,4 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = "../stratus_logo_15.png"
 html_static_path = ['_static']
 
-html_sidebars = {
-    '**': [
-        'versioning.html',
-    ],
-}
+smv_branch_whitelist = None
