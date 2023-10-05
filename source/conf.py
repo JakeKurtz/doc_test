@@ -26,4 +26,4 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = "../stratus_logo_15.png"
 html_static_path = ['_static']
 
-smv_branch_whitelist = None
+#smv_branch_whitelist = None
