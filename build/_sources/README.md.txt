@@ -1,0 +1,1 @@
+![image](C:\Users\jake\source\blender addons\logo\stratus_logo.png)
