@@ -6,10 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Stratus'
+project = 'Stratus 1.53'
 copyright = '2023, Jake Kurtz'
 author = 'Jake Kurtz'
-release = '1.0'
+release = '1.53'
+current_version = '1.53'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
